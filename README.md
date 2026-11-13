@@ -11,16 +11,20 @@ Development of a small-scale Arduino-based agricultural robot designed to harves
 Photos and videos demonstrating the robot's main functions:
 
 - Harvesting apples and plums
-https://github.com/user-attachments/assets/ee5fcba4-0733-413f-b8f0-1259552bb9d7
+
+ https://github.com/user-attachments/assets/ee5fcba4-0733-413f-b8f0-1259552bb9d7
 
 - Depositing collected objects
-https://github.com/user-attachments/assets/a861c03e-6746-419a-9272-71887f97d969
+
+ https://github.com/user-attachments/assets/a861c03e-6746-419a-9272-71887f97d969
 
 - Planting onions
-https://github.com/user-attachments/assets/6dd59d98-ee77-444e-a621-41b08baf0afe
+
+ https://github.com/user-attachments/assets/6dd59d98-ee77-444e-a621-41b08baf0afe
 
 - Autonomous drivetrain control
-https://github.com/user-attachments/assets/541a7f26-2d62-47aa-957c-bb61672bf7a9
+
+ https://github.com/user-attachments/assets/541a7f26-2d62-47aa-957c-bb61672bf7a9
 
 ## My Contributions
 
