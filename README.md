@@ -30,8 +30,20 @@ Photos and videos demonstrating the robot's main functions:
 
 - Implemented and tuned the PID drivetrain controller using Arduino.
 - Co-developed the depositing mechanism.
-- Contributed to track-and-pinion mechanisms for harvesting and planting.
+- Contributed to the rack-and-pinion mechanism for harvesting
 - Responsible for the team's 3D printing and component fabrication.
+
+
+## Technical Implementation
+
+### Line Following & PID Control
+
+The robot used a five-channel IR reflectance sensor array (QTR-MD-05RC) for line detection. A PID controller
+processed the line-position error and adjusted the motor commands to follow the desired path.
+
+### Mechanical Systems
+
+The harvesting mechanism used a motor-driven rack-and-pinion system with a magnet to pick up the objects containing ferromagnetic inserts. By rotating the mechanism, the robot could directly sort and deposit the harvested objects into two separate containers, eliminating the need for an additional sorting mechanism. Servomotors and DC motors provided actuation, while a Hall-effect sensor was used for further position detection of the rack. 
 
 ## Technologies
 
